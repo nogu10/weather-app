@@ -31,7 +31,7 @@ public class WeatherController {
     }
 
     /**
-     * 選ばれた都道府県の天気を取得し、結果を表示します。
+     * 選択された都道府県の天気を取得し、結果を表示します。
      *
      * @param prefecture ユーザーが選択した都道府県
      * @return result.html のテンプレート名
