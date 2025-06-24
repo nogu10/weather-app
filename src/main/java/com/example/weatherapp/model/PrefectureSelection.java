@@ -3,7 +3,7 @@ package com.example.weatherapp.model;
 import jakarta.persistence.*;
 
 /**
- * ユーザーが最後に選択した都道府県の情報を保存するエンティティ。
+ * ユーザーが最後に選択した都道府県の情報を保存するエンティティです
  */
 @Entity
 public class PrefectureSelection {
