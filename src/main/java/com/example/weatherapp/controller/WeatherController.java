@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * ユーザーの画面遷移と操作を処理するコントローラークラス。
+ * ユーザーの画面遷移と操作を処理するコントローラークラスです
  * ログイン・都道府県選択・天気表示を制御します。
  */
 @Controller

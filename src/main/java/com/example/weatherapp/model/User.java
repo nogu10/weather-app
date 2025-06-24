@@ -3,7 +3,7 @@ package com.example.weatherapp.model;
 import jakarta.persistence.*;
 
 /**
- * アプリケーションのユーザー情報を表すエンティティクラス。
+ * アプリケーションのユーザー情報を表すエンティティクラスです
  * ユーザー名とパスワードを保持します。
  */
 @Entity
